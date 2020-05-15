@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_centerVertical="true"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/countryFlag"
+        android:src="@drawable/flag_austria" />
+    <LinearLayout
+        android:id="@+id/trackData"
+        android:layout_toRightOf="@+id/countryFlag"
+        android:layout_toLeftOf="@+id/rate_value"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:textColor="?android:textColorPrimary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="1. Austria"
+            android:id="@+id/entryCountry" />
+        <TextView
+            android:textColor="?android:textColorSecondary"
+            android:fontFamily="sans-serif-light"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-4dp"
+            android:textSize="14sp"
+            android:text="Conchita Wurst"
+            android:id="@+id/entryArtist" />
+        <TextView
+            android:textColor="?android:textColorSecondary"
+            android:fontFamily="sans-serif-light"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-3dp"
+            android:textSize="14sp"
+            android:text="Rise Like a Phoenix"
+            android:id="@+id/entrySong" />
+    </LinearLayout>
+    <TextView
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="5dp"
+        android:id="@+id/rate_value"
+        android:background="@drawable/rated_item_indicator"
+        android:fontFamily="sans-serif-condensed-bold"
+        android:layout_width="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:text="10"
+        android:gravity="center"
+        android:minHeight="32sp"
+        android:minWidth="32sp"/>
+</RelativeLayout>

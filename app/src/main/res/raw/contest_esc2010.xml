@@ -1,0 +1,528 @@
+<esc city="Oslo" motto="Share the Moment" version="1.0" year="2010" state="RESULTS_OUT">
+    <entry>
+        <country>Moldova</country>
+        <language>English</language>
+        <artist>SunStroke Project and Olia Tira</artist>
+        <title>Run Away</title>
+        <video>ECyeUYsU14E</video>
+        <spotify>3LBoutzzVnoBufnbsBjVQC</spotify>
+        <lyrics>http://diggiloo.net/?2010md</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>1</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>4</finalNbr>
+        <result>22</result>
+    </entry>
+    <entry>
+        <country>Russia</country>
+        <language>English</language>
+        <artist>Peter Nalitch and Friends</artist>
+        <title>Lost and Forgotten</title>
+        <video>a-IhsDVq-NQ</video>
+        <spotify>5OOCNAlyoeEQMU8Tm91slM</spotify>
+        <lyrics>http://diggiloo.net/?2010ru</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>2</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>20</finalNbr>
+        <result>11</result>
+    </entry>
+    <entry>
+        <country>Estonia</country>
+        <language>English</language>
+        <artist>Malcolm Lincoln and Manpower 4</artist>
+        <title>Siren</title>
+        <video>KEcNfmuF4YA</video>
+        <spotify>0CCFp9D23icXmBnBULr1Fw</spotify>
+        <lyrics>http://diggiloo.net/?2010ee</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>3</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Slovakia</country>
+        <language>Slovak</language>
+        <artist>Kristina</artist>
+        <title>Horehronie</title>
+        <video>kghCqyMLPFA</video>
+        <spotify>38tlvfSLtIJ1IQQyNF7rKR</spotify>
+        <lyrics>http://diggiloo.net/?2010sk</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>4</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Finland</country>
+        <language>Finnish</language>
+        <artist>Kuunkuiskaajat</artist>
+        <title>Työlki ellää</title>
+        <englishTitle>One can work for a living, too</englishTitle>
+        <video>xXNhn8gJKZo</video>
+        <spotify>1F60Coli6OpYMkQYmUjnG0</spotify>
+        <lyrics>http://diggiloo.net/?2010fi</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>5</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Latvia</country>
+        <language>English</language>
+        <artist>Aisha</artist>
+        <title>What For?</title>
+        <video>eUeZlgeUmp0</video>
+        <spotify>1XfK7B58C97peuS474qrkS</spotify>
+        <lyrics>http://diggiloo.net/?2010lv</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>6</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Serbia</country>
+        <language>Serbian</language>
+        <artist>Milan Stanković</artist>
+        <title>Ovo je Balkan (Oво je Балкан)</title>
+        <englishTitle>This is the Balkans</englishTitle>
+        <video>4xKeYFkB9Pw</video>
+        <spotify>66Tfx0uSSR9aYbmP5YMdG6</spotify>
+        <lyrics>http://diggiloo.net/?2010rs</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>7</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>8</finalNbr>
+        <result>13</result>
+    </entry>
+    <entry>
+        <country>Bosnia and Herzegovina</country>
+        <language>English</language>
+        <artist>Vukašin Brajić</artist>
+        <title>Thunder and Lightning</title>
+        <video>xZQujJgV5ys</video>
+        <spotify>3PfXwwswOMu0tBWjSgwiu0</spotify>
+        <lyrics>http://diggiloo.net/?2010ba</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>8</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>6</finalNbr>
+        <result>17</result>
+    </entry>
+    <entry>
+        <country>Poland</country>
+        <language>English, Polish</language>
+        <artist>Marcin Mroziński</artist>
+        <title>Legenda</title>
+        <englishTitle>The legend</englishTitle>
+        <video>VTThFPoEZA0</video>
+        <spotify>7i4sg8GOOCquxRHts1rVig</spotify>
+        <lyrics>http://diggiloo.net/?2010pl</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>9</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Belgium</country>
+        <language>English</language>
+        <artist>Tom Dice</artist>
+        <title>Me and My Guitar</title>
+        <video>GlRq8E_Teoc</video>
+        <spotify>2lKhWRtNIPZ5UV6b7Mn8QM</spotify>
+        <lyrics>http://diggiloo.net/?2010be</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>10</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>7</finalNbr>
+        <result>6</result>
+    </entry>
+    <entry>
+        <country>Malta</country>
+        <language>English</language>
+        <artist>Thea Garrett</artist>
+        <title>My Dream</title>
+        <video>0OToHVvkBfY</video>
+        <spotify>3pxxryfo8IUmmLojCtrLID</spotify>
+        <lyrics>http://diggiloo.net/?2010mt</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>11</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Albania</country>
+        <language>English</language>
+        <artist>Juliana Pasha</artist>
+        <title>It's All About You</title>
+        <video>qgeklMIc6_k</video>
+        <spotify>24uIBCd9JzcMkPBeV28UCs</spotify>
+        <lyrics>http://diggiloo.net/?2010al</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>12</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>15</finalNbr>
+        <result>16</result>
+    </entry>
+    <entry>
+        <country>Greece</country>
+        <language>Greek</language>
+        <artist>Giorgos Alkaios and Friends</artist>
+        <title>OPA (ΩΠΑ)</title>
+        <video>_F-v8OPJ7lU</video>
+        <spotify>3Fz89frybK57jfeMjuHQvD</spotify>
+        <lyrics>http://diggiloo.net/?2010gr</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>13</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>11</finalNbr>
+        <result>8</result>
+    </entry>
+    <entry>
+        <country>Portugal</country>
+        <language>Portuguese</language>
+        <artist>Filipa Azevedo</artist>
+        <title>Há dias assim</title>
+        <englishTitle>It's one of those days</englishTitle>
+        <video>wNngyFnyaPM</video>
+        <spotify>70sBlgeY87agKJfylBHLnl</spotify>
+        <lyrics>http://diggiloo.net/?2010pt</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>14</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>23</finalNbr>
+        <result>18</result>
+    </entry>
+    <entry>
+        <country>Macedonia</country>
+        <language>Macedonian</language>
+        <artist>Gjoko Taneski, Billy Zver and Pejčin</artist>
+        <title>Jas ja imam silata (Јас ја имам силата)</title>
+        <englishTitle>I have the strength</englishTitle>
+        <video>nLU4SI6WFc4</video>
+        <spotify>72t85ZoocSNvt8NY1qflaa</spotify>
+        <lyrics>http://diggiloo.net/?2010mk</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>15</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Belarus</country>
+        <language>English</language>
+        <artist>3+2 feat Robert Wells</artist>
+        <title>Butterflies</title>
+        <video>nklIoJzjwwM</video>
+        <spotify>3XqUbtGG8k1iGzVjBV6DyZ</spotify>
+        <lyrics>http://diggiloo.net/?2010by</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>16</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>9</finalNbr>
+        <result>24</result>
+    </entry>
+    <entry>
+        <country>Iceland</country>
+        <language>English</language>
+        <artist>Hera Björk</artist>
+        <title>Je ne sais quoi</title>
+        <englishTitle>I don't know what</englishTitle>
+        <video>w6dpooV4tlQ</video>
+        <spotify>1ptJNoNQO05UzeJUGQfpDD</spotify>
+        <lyrics>http://diggiloo.net/?2010is</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>17</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>16</finalNbr>
+        <result>19</result>
+    </entry>
+    <entry>
+        <country>Lithuania</country>
+        <language>English</language>
+        <artist>InCulto</artist>
+        <title>Eastern European Funk</title>
+        <video>ab9C0klYilw</video>
+        <spotify>7CJvcCeEvBiySrPOfbFXTR</spotify>
+        <lyrics>http://diggiloo.net/?2010lt</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>1</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Armenia</country>
+        <language>English</language>
+        <artist>Eva Rivas</artist>
+        <title>Apricot Stone</title>
+        <video>buGOZExVf8o</video>
+        <spotify>2TNZa0vGOibk5OfFbl50ff</spotify>
+        <lyrics>http://diggiloo.net/?2010am</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>2</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>21</finalNbr>
+        <result>7</result>
+    </entry>
+    <entry>
+        <country>Israel</country>
+        <language>Hebrew</language>
+        <artist>Harel Skaat</artist>
+        <title>Milim (מילים)</title>
+        <englishTitle>Words</englishTitle>
+        <video>GelsXCyV5Nk</video>
+        <spotify>3UOc7hPwpmT8Fcke8p2tjy</spotify>
+        <lyrics>http://diggiloo.net/?2010il</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>3</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>24</finalNbr>
+        <result>14</result>
+    </entry>
+    <entry>
+        <country>Denmark</country>
+        <language>English</language>
+        <artist>Chanée and N'evergreen</artist>
+        <title>In a Moment Like This</title>
+        <video>bPzXy-iHVgA</video>
+        <spotify>2CFwFR5toG1BCquzQpuLEG</spotify>
+        <lyrics>http://diggiloo.net/?2010dk</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>4</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>25</finalNbr>
+        <result>4</result>
+    </entry>
+    <entry>
+        <country>Switzerland</country>
+        <language>French</language>
+        <artist>Michael von der Heide</artist>
+        <title>Il pleut de l'or</title>
+        <englishTitle>It's raining gold</englishTitle>
+        <video>fz7IlMTq2wQ</video>
+        <spotify>0qvIyMkhhSSFiLze9VRz81</spotify>
+        <lyrics>http://diggiloo.net/?2010ch</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>5</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Sweden</country>
+        <language>English</language>
+        <artist>Anna Bergendahl</artist>
+        <title>This Is My Life</title>
+        <video>5P1neQKN-1k</video>
+        <spotify>6LBlh4XQKLYKWdaUoPa2Ij</spotify>
+        <lyrics>http://diggiloo.net/?2010se</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>6</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Azerbaijan</country>
+        <language>English</language>
+        <artist>Safura</artist>
+        <title>Drip Drop</title>
+        <video>OU4AVBHjXgU</video>
+        <spotify>2gz6vbLnTFFZLU5VrnyI9a</spotify>
+        <lyrics>http://diggiloo.net/?2010az</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>7</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>1</finalNbr>
+        <result>5</result>
+    </entry>
+    <entry>
+        <country>Ukraine</country>
+        <language>English</language>
+        <artist>Alyosha</artist>
+        <title>Sweet People</title>
+        <video>NT9GFoRbnfc</video>
+        <spotify>4XWTb0MfmT0Un91y7dYFzx</spotify>
+        <lyrics>http://diggiloo.net/?2010ua</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>8</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>17</finalNbr>
+        <result>10</result>
+    </entry>
+    <entry>
+        <country>Netherlands</country>
+        <language>Dutch</language>
+        <artist>Sieneke</artist>
+        <title>Ik ben verliefd (Sha-la-lie)</title>
+        <englishTitle>I'm in love (Sha-la-lie)</englishTitle>
+        <video>_aARooQAfy8</video>
+        <spotify>5KhtLlAPCGhx19RvMAV3A4</spotify>
+        <lyrics>http://diggiloo.net/?2010nl</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>9</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Romania</country>
+        <language>English</language>
+        <artist>Paula Seling and Ovi</artist>
+        <title>Playing with Fire</title>
+        <video>K8iALS6-l7c</video>
+        <spotify>5iUaUKe1J37XKNwX4ZTLGE</spotify>
+        <lyrics>http://diggiloo.net/?2010ro</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>10</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>19</finalNbr>
+        <result>3</result>
+    </entry>
+    <entry>
+        <country>Slovenia</country>
+        <language>Slovene</language>
+        <artist>Ansambel Žlindra and Kalamari</artist>
+        <title>Narodnozabavni rock</title>
+        <englishTitle>Native folk rock</englishTitle>
+        <video>P7mRUZ4M1tk</video>
+        <spotify>3xJjKHBD4IPvQ08XbSBX2U</spotify>
+        <lyrics>http://diggiloo.net/?2010si</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>11</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Ireland</country>
+        <language>English</language>
+        <artist>Niamh Kavanagh</artist>
+        <title>It's for You</title>
+        <video>OH5XorOdx0w</video>
+        <spotify>0tpQyvALCcb4piOIcVazCF</spotify>
+        <lyrics>http://diggiloo.net/?2010ie</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>12</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>10</finalNbr>
+        <result>23</result>
+    </entry>
+    <entry>
+        <country>Bulgaria</country>
+        <language>Bulgarian, English</language>
+        <artist>Miro</artist>
+        <title>Angel si ti (Ангел си ти)</title>
+        <englishTitle>You're an angel</englishTitle>
+        <video>0B1whPvUZRU</video>
+        <spotify>3gg7jtXZL3l7E0IUeqqpEk</spotify>
+        <lyrics>http://diggiloo.net/?2010bg</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>13</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Cyprus</country>
+        <language>English</language>
+        <artist>Jon Lilygreen and The Islanders</artist>
+        <title>Life Looks Better in Spring</title>
+        <video>2WqbmxbpQ1k</video>
+        <spotify>58N5G89W3yFSqZytItT1Ah</spotify>
+        <lyrics>http://diggiloo.net/?2010cy</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>14</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>5</finalNbr>
+        <result>21</result>
+    </entry>
+    <entry>
+        <country>Croatia</country>
+        <language>Croatian</language>
+        <artist>Feminnem</artist>
+        <title>Lako je sve</title>
+        <englishTitle>Everything is easy</englishTitle>
+        <video>tkl4YU5oHB8</video>
+        <spotify>66wgcpGn6Jda9OdmN4VQdZ</spotify>
+        <lyrics>http://diggiloo.net/?2010hr</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>15</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Georgia</country>
+        <language>English</language>
+        <artist>Sofia Nizharadze</artist>
+        <title>Shine</title>
+        <video>Z3nxhVyB5OM</video>
+        <spotify>33HYUy02FtTsp2DIkMS7wA</spotify>
+        <lyrics>http://diggiloo.net/?2010ge</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>16</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>13</finalNbr>
+        <result>9</result>
+    </entry>
+    <entry>
+        <country>Turkey</country>
+        <language>English</language>
+        <artist>maNga</artist>
+        <title>We Could Be the Same</title>
+        <video>Pdw27j_usP0</video>
+        <spotify>0l4nvuWGhtSl5OBzATFJNU</spotify>
+        <lyrics>http://diggiloo.net/?2010tr</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>17</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>14</finalNbr>
+        <result>2</result>
+    </entry>
+    <entry>
+        <country>France</country>
+        <language>French</language>
+        <artist>Jessy Matador</artist>
+        <title>Allez Ola Olé</title>
+        <englishTitle>Come on! Ola! Olé!</englishTitle>
+        <video>4acm3gcWhAE</video>
+        <spotify>3XyHnxLOnCyZDos2EZm8yW</spotify>
+        <lyrics>http://diggiloo.net/?2010fr</lyrics>
+        <semifinal>3</semifinal>
+        <qualified>true</qualified>
+        <finalNbr>18</finalNbr>
+        <result>12</result>
+    </entry>
+    <entry>
+        <country>Germany</country>
+        <language>English</language>
+        <artist>Lena</artist>
+        <title>Satellite</title>
+        <video>8QSgNM9yNjo</video>
+        <spotify>44YQgP67VMWo2CAPlkD3VG</spotify>
+        <lyrics>http://diggiloo.net/?2010de</lyrics>
+        <semifinal>3</semifinal>
+        <qualified>true</qualified>
+        <finalNbr>22</finalNbr>
+        <result>1</result>
+    </entry>
+    <entry>
+        <country>Norway</country>
+        <language>English</language>
+        <artist>Didrik Solli-Tangen</artist>
+        <title>My Heart Is Yours</title>
+        <video>B7cf9IVvovE</video>
+        <spotify>6kTHD80Sd8n3qKNr7SXWRA</spotify>
+        <lyrics>http://diggiloo.net/?2010no</lyrics>
+        <semifinal>3</semifinal>
+        <qualified>true</qualified>
+        <finalNbr>3</finalNbr>
+        <result>20</result>
+    </entry>
+    <entry>
+        <country>Spain</country>
+        <language>Spanish</language>
+        <artist>Daniel Diges</artist>
+        <title>Algo pequeñito</title>
+        <englishTitle>Something tiny</englishTitle>
+        <video>IGlKLUujURk</video>
+        <spotify>4TNq9oD4rENIf10uzKLVfS</spotify>
+        <lyrics>http://diggiloo.net/?2010es</lyrics>
+        <semifinal>3</semifinal>
+        <qualified>true</qualified>
+        <finalNbr>2</finalNbr>
+        <result>15</result>
+    </entry>
+    <entry>
+        <country>United Kingdom</country>
+        <language>English</language>
+        <artist>Josh Dubovie</artist>
+        <title>That Sounds Good to Me</title>
+        <video>InTgD_9DB3I</video>
+        <lyrics>http://diggiloo.net/?2010uk</lyrics>
+        <semifinal>3</semifinal>
+        <qualified>true</qualified>
+        <finalNbr>12</finalNbr>
+        <result>25</result>
+    </entry>
+</esc>

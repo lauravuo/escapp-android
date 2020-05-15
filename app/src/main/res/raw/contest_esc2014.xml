@@ -1,0 +1,496 @@
+<esc city="Copenhagen" motto="#JoinUs" version="1.2" year="2014" state="RESULTS_OUT">
+    <entry>
+        <country>Armenia</country>
+        <artist>Aram MP3</artist>
+        <title>Not Alone</title>
+        <video>ChkJpnOgIwQ</video>
+        <spotify>2kli84TSRXN5XoGsY75Nan</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1883&amp;song=31213</lyrics>
+        <language>English</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>01</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>7</finalNbr>
+        <result>4</result>
+    </entry>
+    <entry>
+        <country>Latvia</country>
+        <artist>Aarzemnieki</artist>
+        <title>Cake to Bake</title>
+        <video>L7CL8anA1hQ</video>
+        <spotify>5Qd68IgarqOFsNiLoKudmu</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1883&amp;song=31193</lyrics>
+        <language>English, Latvian</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>02</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Estonia</country>
+        <artist>Tanja</artist>
+        <title>Amazing</title>
+        <video>7VRSXRXBWCs</video>
+        <spotify>7nHZygGL08cyziMy3i6wqd</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1883&amp;song=31223</lyrics>
+        <language>English</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>03</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Sweden</country>
+        <artist>Sanna Nielsen</artist>
+        <title>Undo</title>
+        <video>XdXXnX5BvGY</video>
+        <spotify>4VMa2QVWFDgJyh6rVA3reO</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1883&amp;song=31153</lyrics>
+        <language>English</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>04</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>13</finalNbr>
+        <result>3</result>
+    </entry>
+    <entry>
+        <country>Iceland</country>
+        <artist>Pollapönk</artist>
+        <title>No Prejudice</title>
+        <video>TwfGKEIn5xw</video>
+        <spotify>0i4O8Zr6gOS0f6AYRCeOLx</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1883&amp;song=31173</lyrics>
+        <language>English</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>05</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>4</finalNbr>
+        <result>15</result>
+    </entry>
+    <entry>
+        <country>Albania</country>
+        <artist>Hersi</artist>
+        <title>One Night's Anger</title>
+        <video>J4ABpIspdic</video>
+        <language>English</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>06</semifinalNbr>
+        <qualified>false</qualified>
+        <spotify>1e7hVISj3bDzGrknIRJCA0</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1883&amp;song=31163</lyrics>
+    </entry>
+    <entry>
+        <country>Russia</country>
+        <artist>Tolmachevy Sisters</artist>
+        <title>Shine</title>
+        <video>MPI7AnD_QS8</video>
+        <spotify>7sMNPesOk3HjzpBrNWH3W7</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1883&amp;song=31183</lyrics>
+        <language>English</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>07</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>15</finalNbr>
+        <result>7</result>
+    </entry>
+    <entry>
+        <country>Azerbaijan</country>
+        <artist>Dilara Kazimova</artist>
+        <title>Start a Fire</title>
+        <video>ipQswujA5gw</video>
+        <spotify>0VbkuPm16enpcwPw5uALYq</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1883&amp;song=31203</lyrics>
+        <language>English</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>08</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>3</finalNbr>
+        <result>22</result>
+    </entry>
+    <entry>
+        <country>Ukraine</country>
+        <artist>Mariya Yaremchuk</artist>
+        <title>Tick-Tock</title>
+        <video>sdAf2EjhRiE</video>
+        <spotify>0r9VSL7mGjmb4TwUglCLcr</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1883&amp;song=31293</lyrics>
+        <language>English</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>09</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>1</finalNbr>
+        <result>6</result>
+    </entry>
+    <entry>
+        <country>Belgium</country>
+        <artist>Axel Hirsoux</artist>
+        <title>Mother</title>
+        <video>APWpOkRQoiY</video>
+        <spotify>63tq1qB7VRfA2wBNuB1Xtl</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1883&amp;song=31233</lyrics>
+        <language>English</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>10</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Moldova</country>
+        <artist>Cristina Scarlat</artist>
+        <title>Wild Soul</title>
+        <video>z_E12QokqAs</video>
+        <spotify>5jGzOHFqzgyhxdFWZRxRaR</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1883&amp;song=31253</lyrics>
+        <language>English</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>11</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>San Marino</country>
+        <artist>Valentina Monetta</artist>
+        <title>Maybe</title>
+        <video>vt_3yms1PcM</video>
+        <spotify>5yLUCQLj75yyIKfpAzdhNZ</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1883&amp;song=31273</lyrics>
+        <language>English</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>12</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>25</finalNbr>
+        <result>24</result>
+    </entry>
+    <entry>
+        <country>Portugal</country>
+        <artist>Suzy</artist>
+        <title>Quero ser tua</title>
+        <video>CcTiPW-X8q4</video>
+        <spotify>1oCkSYgHhVjetJyFXGy0jc</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1883&amp;song=31283</lyrics>
+        <englishTitle>I want to be yours</englishTitle>
+        <language>Portuguese</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>13</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Netherlands</country>
+        <artist>The Common Linnets</artist>
+        <title>Calm After the Storm</title>
+        <video>hkrF8uC92O4</video>
+        <spotify>6IXHfHv83TGf2J7X0k111B</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1883&amp;song=31303</lyrics>
+        <language>English</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>14</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>24</finalNbr>
+        <result>2</result>
+    </entry>
+    <entry>
+        <country>Montenegro</country>
+        <artist>Sergej Ćetković</artist>
+        <title>&quot;Moj svijet&quot; (Мој свијет)</title>
+        <video>Xym7CQFFTOU</video>
+        <spotify>2F3XmCWLT2MGL0IVUfO5CP</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1883&amp;song=31263</lyrics>
+        <englishTitle>My world</englishTitle>
+        <language>Montenegrin</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>15</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>8</finalNbr>
+        <result>19</result>
+    </entry>
+    <entry>
+        <country>Hungary</country>
+        <artist>András Kállay-Saunders</artist>
+        <title>Running</title>
+        <video>QzfRDZmuFUI</video>
+        <spotify>5BRhhQJkfmW0rhXa3zWWIN</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1883&amp;song=31243</lyrics>
+        <language>English</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>16</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>21</finalNbr>
+        <result>5</result>
+    </entry>
+    <entry>
+        <country>Malta</country>
+        <artist>Firelight</artist>
+        <title>Coming Home</title>
+        <video>Qxi5C-lGX2Y</video>
+        <spotify>6SD2vb3rBiRb3sSYNLHqWk</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1873&amp;song=31433</lyrics>
+        <language>English</language>
+        <semifinal>2</semifinal>
+        <semifinalNbr>01</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>22</finalNbr>
+        <result>23</result>
+    </entry>
+    <entry>
+        <country>Israel</country>
+        <artist>Mei Finegold</artist>
+        <title>Same Heart</title>
+        <video>_uB4JMw4ctc</video>
+        <spotify>379KepiioggdYFJJFriwVp</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1873&amp;song=31383</lyrics>
+        <language>English, Hebrew</language>
+        <semifinal>2</semifinal>
+        <semifinalNbr>02</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Norway</country>
+        <artist>Carl Espen</artist>
+        <title>Silent Storm</title>
+        <video>2LBOjxBty8U</video>
+        <spotify>5CO3m9j0nBEok1XrdSYUR3</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1873&amp;song=31373</lyrics>
+        <language>English</language>
+        <semifinal>2</semifinal>
+        <semifinalNbr>03</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>05</finalNbr>
+        <result>8</result>
+    </entry>
+    <entry>
+        <country>Georgia</country>
+        <artist>The Shin and Mariko</artist>
+        <title>Three Minutes to Earth</title>
+        <video>o9ixkdkbieU</video>
+        <spotify>1eVJ6Mke1dKBGxFXELqM6Y</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1873&amp;song=31393</lyrics>
+        <language>English</language>
+        <semifinal>2</semifinal>
+        <semifinalNbr>04</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Poland</country>
+        <artist>Donatan &amp; Cleo</artist>
+        <title>My Slowianie - We Are Slavic</title>
+        <video>syMhJMmGEIc</video>
+        <spotify>6N4wJ4PQ6wuMQ0o6BB7Goh</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1873&amp;song=31423</lyrics>
+        <englishTitle>We Slavs</englishTitle>
+        <language>Polish, English</language>
+        <semifinal>2</semifinal>
+        <semifinalNbr>05</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>9</finalNbr>
+        <result>14</result>
+    </entry>
+    <entry>
+        <country>Austria</country>
+        <artist>Conchita Wurst</artist>
+        <title>Rise Like a Phoenix</title>
+        <video>ToqNa0rqUtY</video>
+        <spotify>2KqrsypJqXIKDentWkQu0J</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1873&amp;song=31403</lyrics>
+        <language>English</language>
+        <semifinal>2</semifinal>
+        <semifinalNbr>06</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>11</finalNbr>
+        <result>1</result>
+    </entry>
+    <entry>
+        <country>Lithuania</country>
+        <artist>Vilija</artist>
+        <title>Attention</title>
+        <video>PWi0zF6bFto</video>
+        <spotify>1WhizSxniuzqVvrHt909sY</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1873&amp;song=31413</lyrics>
+        <language>English</language>
+        <semifinal>2</semifinal>
+        <semifinalNbr>07</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Finland</country>
+        <artist>Softengine</artist>
+        <title>Something Better</title>
+        <video>a-NSVFBKU-4</video>
+        <spotify>6XFyhqbEGeoO1xswBCnKKF</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1873&amp;song=31453</lyrics>
+        <language>English</language>
+        <semifinal>2</semifinal>
+        <semifinalNbr>08</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>18</finalNbr>
+        <result>11</result>
+    </entry>
+    <entry>
+        <country>Ireland</country>
+        <artist>Can-Linn feat. Kasey Smith</artist>
+        <title>Heartbeat</title>
+        <video>Zc14AzCXUgQ</video>
+        <spotify>2v97ToeLY1nEiMJLnAM4MV</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1873&amp;song=31463</lyrics>
+        <language>English</language>
+        <semifinal>2</semifinal>
+        <semifinalNbr>09</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Belarus</country>
+        <artist>Teo</artist>
+        <title>Cheesecake</title>
+        <video>0Qe7YmYgowM</video>
+        <spotify>5pALUcsHsRsFl55w2Cnumt</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1873&amp;song=31493</lyrics>
+        <language>English</language>
+        <semifinal>2</semifinal>
+        <semifinalNbr>10</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>2</finalNbr>
+        <result>16</result>
+    </entry>
+    <entry>
+        <country>Macedonia</country>
+        <artist>Tijana</artist>
+        <title>To the Sky</title>
+        <video>ak73KTgy9nE</video>
+        <spotify>3vp4Ai05zle4jOd73MxVj7</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1793&amp;song=29723</lyrics>
+        <language>English</language>
+        <semifinal>2</semifinal>
+        <semifinalNbr>11</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Switzerland</country>
+        <artist>Sebalter</artist>
+        <title>Hunter of Stars</title>
+        <video>kjWG0oNpWog</video>
+        <spotify>68lO4YsBnxihBFiA0WARHJ</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1873&amp;song=31503</lyrics>
+        <language>English</language>
+        <semifinal>2</semifinal>
+        <semifinalNbr>12</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>20</finalNbr>
+        <result>13</result>
+    </entry>
+    <entry>
+        <country>Greece</country>
+        <artist>Freaky Fortune feat. RiskyKidd</artist>
+        <title>Rise Up</title>
+        <video>z8QIbL9i2MU</video>
+        <spotify>2oFmGjyOGefQ6Af2ysnDfQ</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1873&amp;song=31513</lyrics>
+        <language>English</language>
+        <semifinal>2</semifinal>
+        <semifinalNbr>13</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>10</finalNbr>
+        <result>20</result>
+    </entry>
+    <entry>
+        <country>Slovenia</country>
+        <artist>Tinkara Kovac</artist>
+        <title>Round and Round</title>
+        <video>ZMpNkCOMaGU</video>
+        <spotify>2Z7hewbsty1juz2S1qltoV</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1873&amp;song=31483</lyrics>
+        <language>English, Slovene</language>
+        <semifinal>2</semifinal>
+        <semifinalNbr>14</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>17</finalNbr>
+        <result>25</result>
+    </entry>
+    <entry>
+        <country>Romania</country>
+        <artist>Paula Seling &amp; Ovi</artist>
+        <title>Miracle</title>
+        <video>RYfyMkwTLPg</video>
+        <spotify>5BprleVCAECeHsE4IfXYfE</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1873&amp;song=31473</lyrics>
+        <language>English</language>
+        <semifinal>2</semifinal>
+        <semifinalNbr>15</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>06</finalNbr>
+        <result>12</result>
+    </entry>
+    <entry>
+        <country>Germany</country>
+        <artist>Elaiza</artist>
+        <title>Is It Right</title>
+        <video>mTC-4YO_5eE</video>
+        <spotify>18kAqShskuAKN0fFo18DyH</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1893&amp;song=31343</lyrics>
+        <language>English</language>
+        <semifinal>3</semifinal>
+        <finalNbr>12</finalNbr>
+        <qualified>true</qualified>
+        <result>18</result>
+    </entry>
+    <entry>
+        <country>France</country>
+        <artist>TWIN TWIN</artist>
+        <title>Moustache</title>
+        <video>hWJFfnHNOWI</video>
+        <spotify>5XikhFoJEvwYWEcZbeYEeQ</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1893&amp;song=31323</lyrics>
+        <language>French</language>
+        <semifinal>3</semifinal>
+        <finalNbr>14</finalNbr>
+        <qualified>true</qualified>
+        <result>26</result>
+    </entry>
+    <entry>
+        <country>Italy</country>
+        <artist>Emma</artist>
+        <title>La mia città </title>
+        <video>Si9K0ChHzDI</video>
+        <spotify>350dvo9iFYC94Xt81ArQvY</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1893&amp;song=31353</lyrics>
+        <englishTitle>My city</englishTitle>
+        <language>Italian</language>
+        <semifinal>3</semifinal>
+        <finalNbr>16</finalNbr>
+        <qualified>true</qualified>
+        <result>21</result>
+    </entry>
+    <entry>
+        <country>Spain</country>
+        <artist>Ruth Lorenzo</artist>
+        <title>Dancing in the Rain</title>
+        <video>P9R96ZoWJBU</video>
+        <spotify>0q3qA8OGpzu6RluxLGA71x</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1893&amp;song=31313</lyrics>
+        <language>English, Spanish</language>
+        <semifinal>3</semifinal>
+        <finalNbr>19</finalNbr>
+        <qualified>true</qualified>
+        <result>10</result>
+    </entry>
+    <entry>
+        <country>Denmark</country>
+        <artist>Basim</artist>
+        <title>Cliché Love Song</title>
+        <video>fn8DzOcpQas</video>
+        <spotify>0h0hZdvLGdQwpR8FUQMVue</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1893&amp;song=31333</lyrics>
+        <language>English</language>
+        <semifinal>3</semifinal>
+        <finalNbr>23</finalNbr>
+        <qualified>true</qualified>
+        <result>9</result>
+    </entry>
+    <entry>
+        <country>United Kingdom</country>
+        <artist>Molly</artist>
+        <title>Children of the Universe</title>
+        <video>fFqYbibLh8k</video>
+        <spotify>7KxQjUoKu9chCcN6cpHLrm</spotify>
+        <lyrics>http://www.eurovision.tv/event/lyrics?event=1893&amp;song=31363</lyrics>
+        <language>English</language>
+        <semifinal>3</semifinal>
+        <finalNbr>26</finalNbr>
+        <qualified>true</qualified>
+        <result>17</result>
+    </entry>
+</esc>

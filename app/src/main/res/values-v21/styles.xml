@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="AppTheme" parent="AppTheme.Base">
+        <item name="android:colorPrimaryDark">@color/background</item>
+        <item name="android:colorEdgeEffect">@color/highlight</item>
+        <item name="android:colorPrimary">@color/background</item>
+        <item name="android:colorAccent">@color/highlight</item>
+    </style>
+</resources>

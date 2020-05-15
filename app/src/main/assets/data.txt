@@ -1,0 +1,6 @@
+01	 France	French	Amandine Bourgeois	"L'enfer et moi"	Hell and me	23	14
+05	 Spain	Spanish3	ESDM	"Contigo hasta el final"	With you until the end	25	8
+11	 Germany	English	Cascada	"Glorious"	—	21	18
+15	 United Kingdom	English	Bonnie Tyler	"Believe in Me"	—	19	23
+16	 Sweden	English	Robin Stjernberg	"You"	—	14	62
+23	 Italy	Italian	Marco Mengoni	"L'essenziale"	The essential	7	126

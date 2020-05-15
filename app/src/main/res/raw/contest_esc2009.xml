@@ -1,0 +1,567 @@
+<esc city="Moscow" version="1.0" year="2009" state="RESULTS_OUT" motto="">
+    <entry>
+        <country>Montenegro</country>
+        <language>English</language>
+        <artist>Andrea Demirović</artist>
+        <title>Just Get Out of My Life</title>
+        <video>rw0fCiccd9U</video>
+        <spotify></spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/andrea-demirovic-just-get-out-of-my-life/</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>1</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Czech Republic</country>
+        <language>English, Romani</language>
+        <artist>Gipsy.cz</artist>
+        <title>Aven Romale</title>
+        <englishTitle>Come in gypsies</englishTitle>
+        <video>w3CgUmzl4sk</video>
+        <spotify>7ArGU6eIkVNt7gfNaA7ySJ</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/gipsycz-aven-romale/</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>2</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Belgium</country>
+        <language>English</language>
+        <artist>Patrick Ouchène</artist>
+        <title>Copycat</title>
+        <video>uoCrJEqS214</video>
+        <spotify>0mOHByNAoAstzLqBW8OkTL</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/copycat-copycat/</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>3</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Belarus</country>
+        <language>English</language>
+        <artist>Petr Elfimov</artist>
+        <title>Eyes That Never Lie</title>
+        <video>rTdl5BYK6OY</video>
+        <spotify>64JcF36RU4I1V7XvtuVaG9</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/petr-elfimov-eyes-that-never-lie/</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>4</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Sweden</country>
+        <language>French, English</language>
+        <artist>Malena Ernman</artist>
+        <title>La voix</title>
+        <englishTitle>The voice</englishTitle>
+        <video>5WH2OwJeMBE</video>
+        <spotify>7Kz4f9CgtAfbmPBMX5q2ZV</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/malena-ernman-la-voix/</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>5</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>4</finalNbr>
+        <result>21</result>
+    </entry>
+    <entry>
+        <country>Armenia</country>
+        <language>Armenian, English</language>
+        <artist>Inga and Anush</artist>
+        <title>Jan Jan (Ջան Ջան)</title>
+        <englishTitle>My dear</englishTitle>
+        <video>UF9BcOvBwfM</video>
+        <spotify>0jVxMrJ48JrTcf4RdYy9h1</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/inga-anush-jan-jan/</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>6</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>9</finalNbr>
+        <result>10</result>
+    </entry>
+    <entry>
+        <country>Andorra</country>
+        <language>Catalan, English</language>
+        <artist>Susanne Georgi</artist>
+        <title>La teva decisió (Get a Life)</title>
+        <englishTitle>Your decision</englishTitle>
+        <video>6zukfWaIggY</video>
+        <spotify>4JhfwIE45890EXAyEbpRPj</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/susanne-georgi-la-teva-decisio/</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>7</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Switzerland</country>
+        <language>English</language>
+        <artist>Lovebugs</artist>
+        <title>The Highest Heights</title>
+        <video>-OE5Cww_Jx0</video>
+        <spotify></spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/lovebugs-the-highest-heights/</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>8</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Turkey</country>
+        <language>English</language>
+        <artist>Hadise</artist>
+        <title>Düm Tek Tek</title>
+        <video>-Nx6iVCaix0</video>
+        <spotify>1l9jCFXKfkw33BwkGytqkO</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/hadise-dum-tek-tek/</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>9</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>18</finalNbr>
+        <result>4</result>
+    </entry>
+    <entry>
+        <country>Israel</country>
+        <language>English, Hebrew, Arabic</language>
+        <artist>Noa and Mira Awad</artist>
+        <title>There Must Be Another Way</title>
+        <video>RN8B1xvCxI0</video>
+        <spotify>1kAd2YjUm5EL2usF9RiXIn</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/noa-mira-awad-there-must-be-another-way/</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>10</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>2</finalNbr>
+        <result>16</result>
+    </entry>
+    <entry>
+        <country>Bulgaria</country>
+        <language>English</language>
+        <artist>Krassimir Avramov</artist>
+        <title>Illusion</title>
+        <video>8MLp-GepMY8</video>
+        <spotify>2u7ZB6rd21q2wn4hB9sJrb</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/krassimir-avramov-illusion/</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>11</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Iceland</country>
+        <language>English</language>
+        <artist>Yohanna</artist>
+        <title>Is It True?</title>
+        <video>8w97Z1iwKro</video>
+        <spotify>1C4VC8ZeR2eAzxfKs9PBbv</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/yohanna-is-it-true/</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>12</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>7</finalNbr>
+        <result>2</result>
+    </entry>
+    <entry>
+        <country>Macedonia</country>
+        <language>Macedonian</language>
+        <artist>Next Time</artist>
+        <title>Nešto što kje ostane (Нешто што ќе остане)</title>
+        <englishTitle>Something that will remain</englishTitle>
+        <video>AOQocxoouLg</video>
+        <spotify></spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/next-time-nesto-sto-kje-ostane/</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>13</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Romania</country>
+        <language>English</language>
+        <artist>Elena</artist>
+        <title>The Balkan Girls</title>
+        <video>0kizLKALHm4</video>
+        <spotify></spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/elena-gheorghe-the-balkan-girls/</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>14</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>22</finalNbr>
+        <result>19</result>
+    </entry>
+    <entry>
+        <country>Finland</country>
+        <language>English</language>
+        <artist>Waldo's People</artist>
+        <title>Lose Control</title>
+        <video>Td6HeWx_6WQ</video>
+        <spotify>5UTkoeLEHv0zPy6XtKsCZK</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/waldos-people-lose-control/</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>15</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>24</finalNbr>
+        <result>25</result>
+    </entry>
+    <entry>
+        <country>Portugal</country>
+        <language>Portuguese</language>
+        <artist>Flor-de-Lis</artist>
+        <title>Todas as ruas do amor</title>
+        <englishTitle>All the streets of love</englishTitle>
+        <video>9AgNjqGFMQo</video>
+        <spotify>0k6gCBPphdSYS18HdNFW3h</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/flor-de-lis-todas-as-ruas-do-amor/</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>16</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>6</finalNbr>
+        <result>15</result>
+    </entry>
+    <entry>
+        <country>Malta</country>
+        <language>English</language>
+        <artist>Chiara</artist>
+        <title>What If We</title>
+        <video>RsC4_7pMOSY</video>
+        <spotify>6M8nlXniw9MEh7uqlAMe8e</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/chiara-what-if-we/</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>17</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>14</finalNbr>
+        <result>22</result>
+    </entry>
+    <entry>
+        <country>Bosnia and Herzegovina</country>
+        <language>Bosnian</language>
+        <artist>Regina</artist>
+        <title>Bistra voda</title>
+        <englishTitle>Clear water</englishTitle>
+        <video>liGJ3zo8uW4</video>
+        <spotify>72pPz0QL8HncjUkgFJguHb</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/regina-bistra-voda/</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>18</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>12</finalNbr>
+        <result>9</result>
+    </entry>
+    <entry>
+        <country>Croatia</country>
+        <language>Croatian</language>
+        <artist>Igor Cukrov feat. Andrea</artist>
+        <title>Lijepa Tena</title>
+        <englishTitle>Beautiful Tena</englishTitle>
+        <video>eiXiKRtjJWI</video>
+        <spotify></spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/igor-cukrov-andrea-lijepa-tena/</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>1</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>5</finalNbr>
+        <result>18</result>
+    </entry>
+    <entry>
+        <country>Ireland</country>
+        <language>English</language>
+        <artist>Sinéad Mulvey and Black Daisy</artist>
+        <title>Et Cetera</title>
+        <video>cqVohtaYLeA</video>
+        <spotify>53fkk9N9mbjSSiUfW3hwEo</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/sinead-mulvey-black-daisy-et-cetera/</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>2</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Latvia</country>
+        <language>Russian</language>
+        <artist>Intars Busulis</artist>
+        <title>Probka (Пробка)</title>
+        <englishTitle>Traffic jam</englishTitle>
+        <video>uubxd_8P97M</video>
+        <spotify></spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/intars-busulis-probka/</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>3</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Serbia</country>
+        <language>Serbian</language>
+        <artist>Marko Kon and Milaan</artist>
+        <title>Cipela (Ципела)</title>
+        <englishTitle>Shoe</englishTitle>
+        <video>DRObP8XE4Ko</video>
+        <spotify></spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/marko-kon-milaan-cipela/</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>4</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Poland</country>
+        <language>English</language>
+        <artist>Lidia Kopania</artist>
+        <title>I Don't Wanna Leave</title>
+        <video>CKtPrmYuyzc</video>
+        <spotify>15zGL45A30gx6ufCNl6jwI</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/lidia-kopania-i-dont-wanna-leave/</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>5</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Norway</country>
+        <language>English</language>
+        <artist>Alexander Rybak</artist>
+        <title>Fairytale</title>
+        <video>y4D_hguWPQE</video>
+        <spotify>5D2L026JQTKC2gcq3qkYpj</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/alexander-rybak-fairytale/</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>6</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>20</finalNbr>
+        <result>1</result>
+    </entry>
+    <entry>
+        <country>Cyprus</country>
+        <language>English</language>
+        <artist>Christina Metaxa</artist>
+        <title>Firefly</title>
+        <video>tSc9ftJ-_TA</video>
+        <spotify>68SOVSRAH8Qf85hwQrlb9R</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/christina-metaxa-firefly/</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>7</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Slovakia</country>
+        <language>Slovak</language>
+        <artist>Kamil Mikulčík and Nela</artist>
+        <title>Leť tmou</title>
+        <englishTitle>Fly through the darkness</englishTitle>
+        <video>R3AzJzA2TT8</video>
+        <spotify></spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/kamil-mikulcik-nela-pociskova-let-tmou/</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>8</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Denmark</country>
+        <language>English</language>
+        <artist>Brinck</artist>
+        <title>Believe Again</title>
+        <video>NN9iln4mqzo</video>
+        <spotify>2moFppE0ZWxwC4imuXjAlT</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/brinck-believe-again/</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>9</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>16</finalNbr>
+        <result>13</result>
+    </entry>
+    <entry>
+        <country>Slovenia</country>
+        <language>English, Slovene</language>
+        <artist>Quartissimo feat. Martina</artist>
+        <title>Love Symphony</title>
+        <video>afPh1slPAsc</video>
+        <spotify>4MVp4IDTbDKmErZOf9sVLA</spotify>
+        <lyrics>http://4lyrics.eu/national-final/quartissimo-martina-majerle-love-symphony-en/</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>10</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Hungary</country>
+        <language>English</language>
+        <artist>Zoli Ádok</artist>
+        <title>Dance with Me</title>
+        <video>OCx2_mHr-T4</video>
+        <spotify>5cuG5kQ99wHcATB0qgqYSk</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/zoli-adok-dance-with-me/</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>11</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Azerbaijan</country>
+        <language>English</language>
+        <artist>AySel and Arash</artist>
+        <title>Always</title>
+        <video>HmA82DlI-Pc</video>
+        <spotify>4xMRFkFYufAuTEKR0YMN3Z</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/aysel-arash-always/</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>12</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>11</finalNbr>
+        <result>3</result>
+    </entry>
+    <entry>
+        <country>Greece</country>
+        <language>English</language>
+        <artist>Sakis Rouvas</artist>
+        <title>This Is Our Night</title>
+        <video>BnLKQWIISJY</video>
+        <spotify>59qLlrqPcKHmpjSVidZMgQ</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/sakis-rouvas-this-is-our-night/</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>13</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>8</finalNbr>
+        <result>7</result>
+    </entry>
+    <entry>
+        <country>Lithuania</country>
+        <language>English, Russian</language>
+        <artist>Sasha Son</artist>
+        <title>Love</title>
+        <video>QJrPfCs8ub0</video>
+        <spotify></spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/sasha-son-love/</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>14</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>1</finalNbr>
+        <result>23</result>
+    </entry>
+    <entry>
+        <country>Moldova</country>
+        <language>Romanian, English</language>
+        <artist>Nelly Ciobanu</artist>
+        <title>Hora din Moldova</title>
+        <englishTitle>Hora from Moldova</englishTitle>
+        <video>L20oTDefNcg</video>
+        <spotify></spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/nelly-ciobanu-hora-din-moldova/</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>15</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>13</finalNbr>
+        <result>14</result>
+    </entry>
+    <entry>
+        <country>Albania</country>
+        <language>English</language>
+        <artist>Kejsi Tola</artist>
+        <title>Carry Me in Your Dreams</title>
+        <video>wZNbgQlP_b0</video>
+        <spotify></spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/kejsi-tola-carry-me-in-your-dreams/</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>16</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>19</finalNbr>
+        <result>17</result>
+    </entry>
+    <entry>
+        <country>Ukraine</country>
+        <language>English</language>
+        <artist>Svetlana Loboda</artist>
+        <title>Be My Valentine</title>
+        <video>dFqw8_T_mpE</video>
+        <spotify></spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/svetlana-loboda-be-my-valentine-anti-crisis-girl/</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>17</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>21</finalNbr>
+        <result>12</result>
+    </entry>
+    <entry>
+        <country>Estonia</country>
+        <language>Estonian</language>
+        <artist>Urban Symphony</artist>
+        <title>Rändajad</title>
+        <englishTitle>Migrants</englishTitle>
+        <video>fOsmEO_osXQ</video>
+        <spotify>6IiZBBFqyyK3CLo9BqmmAH</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/urban-symphony-randajad/</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>18</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>15</finalNbr>
+        <result>6</result>
+    </entry>
+    <entry>
+        <country>Netherlands</country>
+        <language>English</language>
+        <artist>The Toppers</artist>
+        <title>Shine</title>
+        <video>te1w81E8L5A</video>
+        <spotify>6eRNvHgSJhdTDmRlKmuGak</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/the-toppers-shine/</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>19</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>France</country>
+        <language>French</language>
+        <artist>Patricia Kaas</artist>
+        <title>Et s'il fallait le faire</title>
+        <englishTitle>And if it had to be done</englishTitle>
+        <video>vzT8Q15DWOM</video>
+        <spotify>068tmpCeSwnAWm3XtECRj9</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/patricia-kaas-et-sil-fallait-le-faire/</lyrics>
+        <semifinal>3</semifinal>
+        <qualified>true</qualified>
+        <finalNbr>3</finalNbr>
+        <result>8</result>
+    </entry>
+    <entry>
+        <country>Russia</country>
+        <language>Russian, Ukrainian</language>
+        <artist>Anastasiya Prikhodko</artist>
+        <title>Mamo (Мамо)</title>
+        <englishTitle>Mum</englishTitle>
+        <video>vZbHXZtm9Ck</video>
+        <spotify></spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/anastasia-prikhodko-mamo/</lyrics>
+        <semifinal>3</semifinal>
+        <qualified>true</qualified>
+        <finalNbr>10</finalNbr>
+        <result>11</result>
+    </entry>
+    <entry>
+        <country>Germany</country>
+        <language>English</language>
+        <artist>Alex Swings Oscar Sings!</artist>
+        <title>Miss Kiss Kiss Bang</title>
+        <video>2FAuk8qGImA</video>
+        <spotify>38l3JLvwiF6FLWWihyzHwS</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/alex-swings-oscar-sings-miss-kiss-kiss-bang/</lyrics>
+        <semifinal>3</semifinal>
+        <qualified>true</qualified>
+        <finalNbr>17</finalNbr>
+        <result>20</result>
+    </entry>
+    <entry>
+        <country>United Kingdom</country>
+        <language>English</language>
+        <artist>Jade Ewen</artist>
+        <title>It's My Time</title>
+        <video>zMus01Epxq8</video>
+        <spotify>0q1PTDRFl64tIskcoIs2EO</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/jade-ewen-its-my-time/</lyrics>
+        <semifinal>3</semifinal>
+        <qualified>true</qualified>
+        <finalNbr>23</finalNbr>
+        <result>5</result>
+    </entry>
+    <entry>
+        <country>Spain</country>
+        <language>Spanish, English</language>
+        <artist>Soraya Arnelas</artist>
+        <title>La noche es para mí</title>
+        <englishTitle>The night is for me</englishTitle>
+        <video>yhqyofl-fP0</video>
+        <spotify>0AdCDSKdj8pRAZZ3FqHmHH</spotify>
+        <lyrics>http://4lyrics.eu/esc/2009/soraya-la-noche-es-para-mi/</lyrics>
+        <semifinal>3</semifinal>
+        <qualified>true</qualified>
+        <finalNbr>25</finalNbr>
+        <result>24</result>
+    </entry>
+</esc>

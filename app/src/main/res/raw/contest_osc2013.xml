@@ -1,0 +1,187 @@
+<osc city="Barcelona" motto="OGAE Spain" version="1.0" year="2013" state="RESULTS_OUT">
+    <entry>
+        <finalNbr>1</finalNbr>
+        <country>Norway</country>
+        <video>VF9PJVoZbvc</video>
+        <official>false</official>
+        <title>Bombo</title>
+        <artist>Adelen</artist>
+        <result>1</result>
+        <spotify>1bi9UNJ3i3NeHTwy8sacmj</spotify>
+        <language>English</language>
+        <lyrics>http://4lyrics.eu/mgp/mgp-2013/adelen-bombo/</lyrics>
+    </entry>
+    <entry>
+        <finalNbr>2</finalNbr>
+        <country>Greece</country>
+        <video>KfYHr6qyQSo</video>
+        <official>false</official>
+        <title>Angel</title>
+        <artist>Alex Leon feat. Giorgina</artist>
+        <result>11</result>
+        <spotify>1YsdlXLOQ6Lxmo9wq7R1P0</spotify>
+        <language>English</language>
+        <lyrics>http://4lyrics.eu/national-final/alex-leon-giorgina-angel/</lyrics>
+    </entry>
+    <entry>
+        <finalNbr>3</finalNbr>
+        <country>Iceland</country>
+        <video>DhHZZq95WQs</video>
+        <official>false</official>
+        <title>Lífið Snýst</title>
+        <artist>Svavar Knútur og Hreindís Ylva</artist>
+        <result>12</result>
+        <spotify>0m5DUT5iq6mLa3IQM3K6Nu</spotify>
+        <language>Icelandic</language>
+        <englishTitle>Life is</englishTitle>
+        <lyrics>http://4lyrics.eu/national-final/svavar-knutur-hreindis-ylva-lifid-snyst/</lyrics>
+    </entry>
+    <entry>
+        <finalNbr>4</finalNbr>
+        <country>Belgium</country>
+        <video>a5yvy744vg8</video>
+        <official>false</official>
+        <title>Reste Toi</title>
+        <artist>Roberto Bellarosa</artist>
+        <result>8</result>
+        <spotify>5DkxRt7I80FmHT5361GGV0</spotify>
+        <language>French</language>
+        <englishTitle>Stay yourself</englishTitle>
+        <lyrics>http://4lyrics.eu/national-final/roberto-bellarosa-reste-toi/</lyrics>
+    </entry>
+    <entry>
+        <finalNbr>5</finalNbr>
+        <country>Finland</country>
+        <video>FZbhlh2Q6mw</video>
+        <official>false</official>
+        <title>We Should Be Through</title>
+        <artist>Mikael Saari</artist>
+        <result>5</result>
+        <spotify>7Gfmk8noG0oK49eBCM4QUC</spotify>
+        <language>English</language>
+        <lyrics>http://4lyrics.eu/national-final/mikael-saari-we-should-be-through/</lyrics>
+    </entry>
+    <entry>
+        <finalNbr>6</finalNbr>
+        <country>Spain</country>
+        <video>gnZbZv8L1WM</video>
+        <official>false</official>
+        <title>Atrévete</title>
+        <artist>El Sueño de Morfeo</artist>
+        <result>15</result>
+        <spotify>3KCq0p114zlpM9CiTmwOle</spotify>
+        <language>Spanish</language>
+        <englishTitle>Dare</englishTitle>
+        <lyrics>http://4lyrics.eu/national-final/el-sueno-de-morfeo-atrevete/</lyrics>
+    </entry>
+    <entry>
+        <finalNbr>7</finalNbr>
+        <country>Germany</country>
+        <video>voPKgHiKJC0</video>
+        <official>false</official>
+        <title>Hearts On The Line</title>
+        <artist>Blitzkids MVT</artist>
+        <result>7</result>
+        <spotify>4krRQGqfOLzR6takMn2UUl</spotify>
+        <language>English</language>
+        <lyrics>http://4lyrics.eu/national-final/blitzkids-mvt-heart-on-the-line/</lyrics>
+    </entry>
+    <entry>
+        <finalNbr>8</finalNbr>
+        <country>Lithuania</country>
+        <video>g5HJFR7Ju_I</video>
+        <official>false</official>
+        <title>Sacrifice</title>
+        <artist>Gabrielius Vagelis</artist>
+        <result>13</result>
+        <language>English</language>
+        <lyrics>http://4lyrics.eu/national-final/gabrielius-vagelis-sacrifice/</lyrics>
+    </entry>
+    <entry>
+        <finalNbr>9</finalNbr>
+        <country>Sweden</country>
+        <video>8C49hM_2aOM</video>
+        <official>false</official>
+        <title>Heartbreak Hotel</title>
+        <artist>Yohio</artist>
+        <result>4</result>
+        <spotify>3AUTrJWOhtQbduB7wDtwfb</spotify>
+        <language>English</language>
+        <lyrics>http://4lyrics.eu/mf/mf-2013/yohio-heartbreak-hotel/</lyrics>
+    </entry>
+    <entry>
+        <finalNbr>10</finalNbr>
+        <country>Serbia</country>
+        <video>lXRa-skwXEs</video>
+        <official>false</official>
+        <title>Spas</title>
+        <artist>Dusan Svilar</artist>
+        <result>6</result>
+        <spotify>1EdG5eO4i169ta8h71ejhS</spotify>
+        <language>Serbian</language>
+        <englishTitle>Salvation</englishTitle>
+        <lyrics>http://4lyrics.eu/national-final/dusan-svilar-spas/</lyrics>
+    </entry>
+    <entry>
+        <finalNbr>11</finalNbr>
+        <country>Italy</country>
+        <video>hTCZYZIaxxk</video>
+        <official>false</official>
+        <title>E Se Poi</title>
+        <artist>Malika Ayane</artist>
+        <result>2</result>
+        <spotify>6U3DBRB8ODozxYtspXPGdB</spotify>
+        <language>Italian</language>
+        <englishTitle>And if then</englishTitle>
+        <lyrics>http://4lyrics.eu/national-final/malika-ayane-e-se-poi/</lyrics>
+    </entry>
+    <entry>
+        <finalNbr>12</finalNbr>
+        <country>Hungary</country>
+        <video>nuue2LJrY0Q</video>
+        <official>false</official>
+        <title>Ugy Faj</title>
+        <artist>Gigi Radics</artist>
+        <result>3</result>
+        <spotify>0P7V6wTchtyAMiYTvZrM5O</spotify>
+        <language>Hungarian</language>
+        <englishTitle>Over you</englishTitle>
+        <lyrics>http://4lyrics.eu/national-final/gigi-radics-ugy-faj/</lyrics>
+    </entry>
+    <entry>
+        <finalNbr>13</finalNbr>
+        <country>Israel</country>
+        <video>6HKQ9W02WK8</video>
+        <official>false</official>
+        <title>Toda La Noche</title>
+        <artist>Asi Tal</artist>
+        <result>10</result>
+        <spotify>3RbFm2iXSHm5tN8iRk9U47</spotify>
+        <language>English</language>
+        <lyrics>http://4lyrics.eu/national-final/meital-de-razon-asi-tal-toda-la-noche/</lyrics>
+    </entry>
+    <entry>
+        <finalNbr>14</finalNbr>
+        <country>Ireland</country>
+        <video>vqOgtf_VVFM</video>
+        <official>false</official>
+        <title>Crashing Down</title>
+        <artist>Aimee Fitzpatrick</artist>
+        <result>14</result>
+        <spotify>7fQ77MhLyJThLuF9NoXhGG</spotify>
+        <language>English</language>
+        <lyrics>http://4lyrics.eu/national-final/aimee-fitzpatrick-crashing-down/</lyrics>
+    </entry>
+    <entry>
+        <finalNbr>15</finalNbr>
+        <country>Austria</country>
+        <video>-ACN2DZ7gjQ</video>
+        <official>false</official>
+        <title>Feels Like Home</title>
+        <artist>Yela</artist>
+        <result>9</result>
+        <spotify>2HD6Y0XQKB0XhtYy0azuAe</spotify>
+        <language>English</language>
+        <lyrics>http://4lyrics.eu/national-final/yela-feels-like-home/</lyrics>
+    </entry>
+</osc>

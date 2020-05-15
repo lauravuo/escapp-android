@@ -1,0 +1,572 @@
+<esc city="Düsseldorf" motto="Feel Your Heart Beat!" version="1.0" year="2011" state="RESULTS_OUT">
+    <entry>
+        <country>Poland</country>
+        <language>Polish</language>
+        <artist>Magdalena Tul</artist>
+        <title>Jestem</title>
+        <englishTitle>I am</englishTitle>
+        <video>vkm6hCiuyXw</video>
+        <spotify>69uXOTf96HhBbnfjT2CBKU</spotify>
+        <lyrics>http://diggiloo.net/?2011pl</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>1</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Norway</country>
+        <language>English, Swahili</language>
+        <artist>Stella Mwangi</artist>
+        <title>Haba Haba</title>
+        <englishTitle>Little by little</englishTitle>
+        <video>o7W-ko3Bbt8</video>
+        <spotify>64exiir9Con95RIIUEoV4k</spotify>
+        <lyrics>http://diggiloo.net/?2011no</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>2</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Albania</country>
+        <language>English, Albanian</language>
+        <artist>Aurela Gaçe</artist>
+        <title>Feel the Passion</title>
+        <video>35yy7Ls3ptc</video>
+        <spotify>6t2jBtX5ZNip3s5cD1XIEW</spotify>
+        <lyrics>http://diggiloo.net/?2011al</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>3</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Armenia</country>
+        <language>English</language>
+        <artist>Emmy</artist>
+        <title>Boom Boom</title>
+        <video>_OO7p_iKwAk</video>
+        <spotify>5KHSAzfvYQexOeJuE9Qfwa</spotify>
+        <lyrics>http://diggiloo.net/?2011am</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>4</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Turkey</country>
+        <language>English</language>
+        <artist>Yüksek Sadakat</artist>
+        <title>Live It Up</title>
+        <video>0QUDFPmcWgw</video>
+        <lyrics>http://diggiloo.net/?2011tr</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>5</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Serbia</country>
+        <language>Serbian</language>
+        <artist>Nina</artist>
+        <title>Čaroban (Чаробан)</title>
+        <englishTitle>Magical</englishTitle>
+        <video>jC8hu_9lonw</video>
+        <spotify>1fWpJ5FujyOVjiChTUsBj2</spotify>
+        <lyrics>http://diggiloo.net/?2011rs</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>6</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>24</finalNbr>
+        <result>14</result>
+    </entry>
+    <entry>
+        <country>Russia</country>
+        <language>English, Russian</language>
+        <artist>Alexej Vorobjov</artist>
+        <title>Get You</title>
+        <video>rpiXxV3y8H0</video>
+        <spotify>126hvS8unw7F8MvFptacOP</spotify>
+        <lyrics>http://diggiloo.net/?2011ru</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>7</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>10</finalNbr>
+        <result>16</result>
+    </entry>
+    <entry>
+        <country>Switzerland</country>
+        <language>English</language>
+        <artist>Anna Rossinelli</artist>
+        <title>In Love for a While</title>
+        <video>PtlhYGVtZlk</video>
+        <spotify>1exyvJP0CCnMkfzJvmz6rF</spotify>
+        <lyrics>http://diggiloo.net/?2011ch</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>8</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>13</finalNbr>
+        <result>25</result>
+    </entry>
+    <entry>
+        <country>Georgia</country>
+        <language>English</language>
+        <artist>Eldrine</artist>
+        <title>One More Day</title>
+        <video>LvnLWlHqMqM</video>
+        <spotify>5eQiJEOdg7HCtWHn54TlPe</spotify>
+        <lyrics>http://diggiloo.net/?2011ge</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>9</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>25</finalNbr>
+        <result>9</result>
+    </entry>
+    <entry>
+        <country>Finland</country>
+        <language>English</language>
+        <artist>Paradise Oskar</artist>
+        <title>Da Da Dam</title>
+        <video>h65xXOVrQzQ</video>
+        <spotify>3cxGXhJjZ1tzLUfuGEU8h3</spotify>
+        <lyrics>http://diggiloo.net/?2011fi</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>10</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>1</finalNbr>
+        <result>21</result>
+    </entry>
+    <entry>
+        <country>Malta</country>
+        <language>English</language>
+        <artist>Glen Vella</artist>
+        <title>One Life</title>
+        <video>SYQnPY0znPA</video>
+        <spotify>7FpP25GlIKOQKKSXNjPQ0Y</spotify>
+        <lyrics>http://diggiloo.net/?2011mt</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>11</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>San Marino</country>
+        <language>English</language>
+        <artist>Senit</artist>
+        <title>Stand By</title>
+        <video>Owh0pnNzh0Y</video>
+        <spotify>7kJwNyxi4Mrqq4WWXL4kId</spotify>
+        <lyrics>http://diggiloo.net/?2011sm</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>12</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Croatia</country>
+        <language>English</language>
+        <artist>Daria</artist>
+        <title>Celebrate</title>
+        <video>dtcsw6vLENg</video>
+        <spotify>5SUuq0cMyviImpcZmjTLLJ</spotify>
+        <lyrics>http://diggiloo.net/?2011hr</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>13</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Iceland</country>
+        <language>English</language>
+        <artist>Sjonni's Friends</artist>
+        <title>Coming Home</title>
+        <video>foI2HlqsWQk</video>
+        <spotify>5JVn0rGWbMFwmSr8khSV4e</spotify>
+        <lyrics>http://diggiloo.net/?2011is</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>14</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>21</finalNbr>
+        <result>20</result>
+    </entry>
+    <entry>
+        <country>Hungary</country>
+        <language>English, Hungarian</language>
+        <artist>Kati Wolf</artist>
+        <title>What About My Dreams?</title>
+        <video>Wy_oB_FYd7s</video>
+        <spotify>4y2JTXDNuMvoxdIUaVxK3u</spotify>
+        <lyrics>http://diggiloo.net/?2011hu</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>15</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>5</finalNbr>
+        <result>22</result>
+    </entry>
+    <entry>
+        <country>Portugal</country>
+        <language>Portuguese</language>
+        <artist>Homens da Luta</artist>
+        <title>A luta é alegria</title>
+        <englishTitle>The struggle is joy</englishTitle>
+        <video>gDBjUoty-zE</video>
+        <spotify>2pcpfxIKOrsvNx1ASYK4us</spotify>
+        <lyrics>http://diggiloo.net/?2011pt</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>16</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Lithuania</country>
+        <language>English</language>
+        <artist>Evelina Sašenko</artist>
+        <title>C'est ma vie</title>
+        <englishTitle>It's my life</englishTitle>
+        <video>BWsuBnfYQBw</video>
+        <spotify>38vhxL9ENCHKwajgF45tTX</spotify>
+        <lyrics>http://diggiloo.net/?2011lt</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>17</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>4</finalNbr>
+        <result>19</result>
+    </entry>
+    <entry>
+        <country>Azerbaijan</country>
+        <language>English</language>
+        <artist>Eli &amp; Nikki</artist>
+        <title>Running Scared</title>
+        <video>eG2uNbNRkAw</video>
+        <spotify>4VbrrypzzSDiNu2DAlJp9A</spotify>
+        <lyrics>http://diggiloo.net/?2011az</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>18</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>19</finalNbr>
+        <result>1</result>
+    </entry>
+    <entry>
+        <country>Greece</country>
+        <language>English, Greek</language>
+        <artist>Loukas Giorkas feat. Stereo Mike</artist>
+        <title>Watch My Dance</title>
+        <video>jtaD4Ayt0kg</video>
+        <spotify>3W4FCbctuVI3rLfzGtRvGF</spotify>
+        <lyrics>http://diggiloo.net/?2011gr</lyrics>
+        <semifinal>1</semifinal>
+        <semifinalNbr>19</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>9</finalNbr>
+        <result>7</result>
+    </entry>
+    <entry>
+        <country>Bosnia and Herzegovina</country>
+        <language>English, Bosnian</language>
+        <artist>Dino Merlin</artist>
+        <title>Love in Rewind</title>
+        <video>urqhlnWLXxs</video>
+        <spotify>2hKeH7Bo8d3jNqCKPig77a</spotify>
+        <lyrics>http://diggiloo.net/?2011ba</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>1</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>2</finalNbr>
+        <result>6</result>
+    </entry>
+    <entry>
+        <country>Austria</country>
+        <language>English</language>
+        <artist>Nadine Beiler</artist>
+        <title>The Secret Is Love</title>
+        <video>s88qtWo7byY</video>
+        <spotify>49rOC9IYdj6LBywOI0oYyb</spotify>
+        <lyrics>http://diggiloo.net/?2011at</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>2</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>18</finalNbr>
+        <result>18</result>
+    </entry>
+    <entry>
+        <country>Netherlands</country>
+        <language>English</language>
+        <artist>3JS</artist>
+        <title>Never Alone</title>
+        <video>KlneiG2bGuE</video>
+        <spotify>2JjBrzBSc2wonDGGDDP8Ax</spotify>
+        <lyrics>http://diggiloo.net/?2011nl</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>3</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Belgium</country>
+        <language>English</language>
+        <artist>Witloof Bay</artist>
+        <title>With Love Baby</title>
+        <video>ZD09ThCx4Cw</video>
+        <spotify>5sTS3xR0uKRSHedWbVrZed</spotify>
+        <lyrics>http://diggiloo.net/?2011be</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>4</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Slovakia</country>
+        <language>English</language>
+        <artist>TWiiNS</artist>
+        <title>I'm Still Alive</title>
+        <video>bt8QhxICZzA</video>
+        <spotify>5QqsysitxCi2iYMADrYAlG</spotify>
+        <lyrics>http://diggiloo.net/?2011sk</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>5</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Ukraine</country>
+        <language>English</language>
+        <artist>Mika Newton</artist>
+        <title>Angel</title>
+        <video>Jtfetx1u8I0</video>
+        <spotify></spotify>
+        <lyrics>http://diggiloo.net/?2011ua</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>6</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>23</finalNbr>
+        <result>4</result>
+    </entry>
+    <entry>
+        <country>Moldova</country>
+        <language>English</language>
+        <artist>Zdob şi Zdub</artist>
+        <title>So Lucky</title>
+        <video>GXTm9yKP4_4</video>
+        <spotify>7sEFRncqj1VIt64YXPMr5o</spotify>
+        <lyrics>http://diggiloo.net/?2011md</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>7</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>15</finalNbr>
+        <result>12</result>
+    </entry>
+    <entry>
+        <country>Sweden</country>
+        <language>English</language>
+        <artist>Eric Saade</artist>
+        <title>Popular</title>
+        <video>iEX0WSq2jh4</video>
+        <spotify>6qOZqzzmFBu8nyAA7qOVWZ</spotify>
+        <lyrics>http://diggiloo.net/?2011se</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>8</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>7</finalNbr>
+        <result>3</result>
+    </entry>
+    <entry>
+        <country>Cyprus</country>
+        <language>Greek</language>
+        <artist>Christos Mylordos</artist>
+        <title>San Aggelos S'agapisa (Σαν άγγελος σ'αγάπησα)</title>
+        <englishTitle>I loved you like an angel</englishTitle>
+        <video>fmGLd3zqW9Q</video>
+        <spotify>7sEFRncqj1VIt64YXPMr5o</spotify>
+        <lyrics>http://diggiloo.net/?2011cy</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>9</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Bulgaria</country>
+        <language>Bulgarian</language>
+        <artist>Poli Genova</artist>
+        <title>Na inat (На инат)</title>
+        <englishTitle>With stubbornness</englishTitle>
+        <video>I4naw9iUrTw</video>
+        <spotify>6m0p8cTxhLTtlEU04knSOu</spotify>
+        <lyrics>http://diggiloo.net/?2011bg</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>10</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Macedonia</country>
+        <language>Macedonian, English</language>
+        <artist>Vlatko Ilievski</artist>
+        <title>Rusinka (Русинкa)</title>
+        <englishTitle>Russian girl</englishTitle>
+        <video>NRG2lY9CuL8</video>
+        <spotify>1VLaASLpKUeE22TRLzCpTF</spotify>
+        <lyrics>http://diggiloo.net/?2011mk</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>11</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Israel</country>
+        <language>Hebrew, English</language>
+        <artist>Dana International</artist>
+        <title>Ding Dong</title>
+        <video>JmBMQJlzTa4</video>
+        <spotify>5NDkQlEVGg1NS7O276Yx0I</spotify>
+        <lyrics>http://diggiloo.net/?2011il</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>12</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Slovenia</country>
+        <language>English</language>
+        <artist>Maja Keuc</artist>
+        <title>No One</title>
+        <video>NM8QpZMjNpg</video>
+        <spotify>5D6YW54UUX9sOwJsLIrw7i</spotify>
+        <lyrics>http://diggiloo.net/?2011si</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>13</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>20</finalNbr>
+        <result>13</result>
+    </entry>
+    <entry>
+        <country>Romania</country>
+        <language>English</language>
+        <artist>Hotel FM</artist>
+        <title>Change</title>
+        <video>7PnaTmV5I1Q</video>
+        <spotify></spotify>
+        <lyrics>http://diggiloo.net/?2011ro</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>14</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>17</finalNbr>
+        <result>17</result>
+    </entry>
+    <entry>
+        <country>Estonia</country>
+        <language>English</language>
+        <artist>Getter Jaani</artist>
+        <title>Rockefeller Street</title>
+        <video>kXFGFCRV3z0</video>
+        <spotify>4rvFyA7h88s8DehCOjqW9K</spotify>
+        <lyrics>http://diggiloo.net/?2011ee</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>15</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>8</finalNbr>
+        <result>24</result>
+    </entry>
+    <entry>
+        <country>Belarus</country>
+        <language>English</language>
+        <artist>Anastasia Vinnikova</artist>
+        <title>I Love Belarus</title>
+        <video>Asz9f-9SxiE</video>
+        <spotify>7f8NmWIkLpiJlSj6ZWNi6L</spotify>
+        <lyrics>http://diggiloo.net/?2011by</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>16</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Latvia</country>
+        <language>English</language>
+        <artist>Musiqq</artist>
+        <title>Angel in Disguise</title>
+        <video>4OCUTGmCums</video>
+        <spotify>1gEQruFmG90u3RIW3fmdZ6</spotify>
+        <lyrics>http://diggiloo.net/?2011lv</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>17</semifinalNbr>
+        <qualified>false</qualified>
+    </entry>
+    <entry>
+        <country>Denmark</country>
+        <language>English</language>
+        <artist>A Friend in London</artist>
+        <title>New Tomorrow</title>
+        <video>aGVZktHLZhk</video>
+        <spotify>6ZgiHiHfBYQSkk90U5HzF4</spotify>
+        <lyrics>http://diggiloo.net/?2011dk</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>18</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>3</finalNbr>
+        <result>5</result>
+    </entry>
+    <entry>
+        <country>Ireland</country>
+        <language>English</language>
+        <artist>Jedward</artist>
+        <title>Lipstick</title>
+        <video>75ux9AvDPfI</video>
+        <spotify>4gDQktCvIfPqo18AdHmkR4</spotify>
+        <lyrics>http://diggiloo.net/?2011ie</lyrics>
+        <semifinal>2</semifinal>
+        <semifinalNbr>19</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>6</finalNbr>
+        <result>8</result>
+    </entry>
+    <entry>
+        <country>France</country>
+        <language>Corsican</language>
+        <artist>Amaury Vassili</artist>
+        <title>Sognu</title>
+        <englishTitle>Dream</englishTitle>
+        <video>uEb7hRo-Qyk</video>
+        <spotify>5aMVz9LjeVxI0TjLpNqJ4g</spotify>
+        <lyrics>http://diggiloo.net/?2011fr</lyrics>
+        <semifinal>3</semifinal>
+        <qualified>true</qualified>
+        <finalNbr>11</finalNbr>
+        <result>15</result>
+    </entry>
+    <entry>
+        <country>Italy</country>
+        <language>Italian, English</language>
+        <artist>Raphael Gualazzi</artist>
+        <title>Madness of Love</title>
+        <video>tO0Ih3q4PSE</video>
+        <spotify>7dTsakSNgzqhzUqt8EpKG0</spotify>
+        <lyrics>http://diggiloo.net/?2011it</lyrics>
+        <semifinal>3</semifinal>
+        <qualified>true</qualified>
+        <finalNbr>12</finalNbr>
+        <result>2</result>
+    </entry>
+    <entry>
+        <country>United Kingdom</country>
+        <language>English</language>
+        <artist>Blue</artist>
+        <title>I Can</title>
+        <video>mRU31ieUhJM</video>
+        <spotify>5jPgftyPXN71rhYYqqEfUf</spotify>
+        <lyrics>http://diggiloo.net/?2011uk</lyrics>
+        <semifinal>3</semifinal>
+        <qualified>true</qualified>
+        <finalNbr>14</finalNbr>
+        <result>11</result>
+    </entry>
+    <entry>
+        <country>Germany</country>
+        <language>English</language>
+        <artist>Lena</artist>
+        <title>Taken by a Stranger</title>
+        <video>44ydDZlsruk</video>
+        <spotify>7ytIbb2rICCr5juZbqPENQ</spotify>
+        <lyrics>http://diggiloo.net/?2011de</lyrics>
+        <semifinal>3</semifinal>
+        <qualified>true</qualified>
+        <finalNbr>16</finalNbr>
+        <result>10</result>
+    </entry>
+    <entry>
+        <country>Spain</country>
+        <language>Spanish</language>
+        <artist>Lucía Pérez</artist>
+        <title>Que me quiten lo bailao</title>
+        <englishTitle>They can't take away the fun from me</englishTitle>
+        <video>IYzomDkiORw</video>
+        <spotify>7xXTKNnAyNAhYFHSCSXkye</spotify>
+        <lyrics>http://diggiloo.net/?2011es</lyrics>
+        <semifinal>3</semifinal>
+        <qualified>true</qualified>
+        <finalNbr>22</finalNbr>
+        <result>23</result>
+    </entry>
+</esc>

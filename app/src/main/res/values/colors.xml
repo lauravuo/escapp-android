@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#000000</color>
+    <color name="background_transparent">#CC222222</color>
+    <color name="text_color">#FFFFFF</color>
+    <color name="highlight">#EC008C</color>
+    <color name="highlight_light">#F680C6</color>
+    <color name="youtube_text">#bb0000</color>
+    <color name="background_pressed_down">#737373</color>
+    <color name="background_disabled">#88737373</color>
+</resources>

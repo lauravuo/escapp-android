@@ -1,0 +1,558 @@
+<esc city="Lisbon" motto="All Aboard!" version="1.2" year="2018" state="RESULTS_OUT">
+    <entry>
+        <country>France</country>
+        <artist>Madame Monsieur</artist>
+        <title>Mercy</title>
+        <video>dHb-gWC-WTc</video>
+        <lyrics>http://4lyrics.eu/esc/2018/madame-monsieur-mercy/</lyrics>
+        <language>French</language>
+        <spotify>29eZ3b1mfZIwOMQMdRFNZ0</spotify>
+        <semifinal>3</semifinal>
+        <qualified>true</qualified>
+        <finalNbr>13</finalNbr>
+        <result>13</result>
+    </entry>
+    <entry>
+        <country>Czech Republic</country>
+        <artist>Mikolas Josef</artist>
+        <title>Lie to Me</title>
+        <video>9zZPB3y70oU</video>
+        <lyrics>http://4lyrics.eu/esc/2018/mikolas-josef-lie-to-me/</lyrics>
+        <language>English</language>
+        <spotify>4Ot9gTaARnRqJT1TYwM4pQ</spotify>
+        <semifinal>1</semifinal>
+        <semifinalNbr>5</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>14</finalNbr>
+        <result>6</result>
+    </entry>
+    <entry>
+        <country>Spain</country>
+        <artist>Alfred &amp; Amaia</artist>
+        <title>Tu canción</title>
+        <englishTitle>Your song</englishTitle>
+        <video>nO4mDiJRH6Q</video>
+        <lyrics>http://4lyrics.eu/esc/2018/alfred-garcia-amaia-romero-tu-cancion/</lyrics>
+        <language>Spanish</language>
+        <spotify>5vMdtSDbzvJQQOAvFt0ABb</spotify>
+        <semifinal>3</semifinal>
+        <qualified>true</qualified>
+        <finalNbr>2</finalNbr>
+        <result>23</result>
+    </entry>
+    <entry>
+        <country>Malta</country>
+        <artist>Christabelle</artist>
+        <title>Taboo</title>
+        <video>E_0ugf0eP1Q</video>
+        <spotify>3mlWbiS1EuTMnZJfuHNVvB</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/christabelle-taboo/</lyrics>
+        <language>English</language>
+        <semifinal>2</semifinal>
+        <semifinalNbr>12</semifinalNbr>
+    </entry>
+    <entry>
+        <country>Switzerland</country>
+        <artist>Zibbz</artist>
+        <title>Stones</title>
+        <video>YLWDqy1DnP0</video>
+        <lyrics>http://4lyrics.eu/esc/2018/zibbz-stones/</lyrics>
+        <language>English</language>
+        <spotify>4fYKSTyUG6Yy6Kmem8LbLI</spotify>
+        <semifinal>1</semifinal>
+        <semifinalNbr>17</semifinalNbr>
+    </entry>
+    <entry>
+        <country>United Kingdom</country>
+        <artist>SuRie</artist>
+        <title>Storm</title>
+        <video>K--kIdOpbJM</video>
+        <spotify>5MpHIqC75MbPp1PFkljSFz</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/surie-storm/</lyrics>
+        <language>English</language>
+        <semifinal>3</semifinal>
+        <qualified>true</qualified>
+        <finalNbr>9</finalNbr>
+        <result>24</result>
+    </entry>
+    <entry>
+        <country>Portugal</country>
+        <artist>Cláudia Pascoal</artist>
+        <title>O jardim</title>
+        <englishTitle>The Garden</englishTitle>
+        <video>kaVp4El9p3s</video>
+        <spotify>6OuxT3FPHvfoJ0zAypjCdE</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/claudia-pascoal-o-jardim/</lyrics>
+        <language>Portuguese</language>
+        <semifinal>3</semifinal>
+        <qualified>true</qualified>
+        <finalNbr>8</finalNbr>
+        <result>26</result>
+    </entry>
+    <entry>
+        <country>Finland</country>
+        <artist>Saara Aalto</artist>
+        <title>Monsters</title>
+        <video>y4xlvh6qW6M</video>
+        <lyrics>http://4lyrics.eu/esc/2018/saara-aalto-monsters/</lyrics>
+        <language>English</language>
+        <spotify>0JGbU6NlewrskD138Wq04b</spotify>
+        <semifinal>1</semifinal>
+        <semifinalNbr>15</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>17</finalNbr>
+        <result>25</result>
+    </entry>
+    <entry>
+        <country>Poland</country>
+        <artist>Gromee feat. Lukas Meijer</artist>
+        <title>Light Me Up</title>
+        <video>yfUJ2eDm6ng</video>
+        <lyrics>http://4lyrics.eu/esc/2018/gromee-lukas-meijer-light-me-up/</lyrics>
+        <language>English</language>
+        <spotify>5GXNpvgo6UtLhe2wYBYWy1</spotify>
+        <semifinal>2</semifinal>
+        <semifinalNbr>11</semifinalNbr>
+    </entry>
+    <entry>
+        <country>Estonia</country>
+        <artist>Elina Nechayeva</artist>
+        <title>La forza</title>
+        <englishTitle>The Force</englishTitle>
+        <video>76KOUIfDry8</video>
+        <lyrics>http://4lyrics.eu/esc/2018/elina-netsajeva-la-forza/</lyrics>
+        <language>Italian</language>
+        <spotify>32GxSibwrYAGW4ZZ45CGHA</spotify>
+        <semifinal>1</semifinal>
+        <semifinalNbr>9</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>6</finalNbr>
+        <result>8</result>
+    </entry>
+    <entry>
+        <country>Netherlands</country>
+        <artist>Waylon</artist>
+        <title>Outlaw in &apos;Em</title>
+        <video>kLL9IlQ_7OA</video>
+        <lyrics>http://4lyrics.eu/esc/2018/waylon-outlaw-in-em/</lyrics>
+        <language>English</language>
+        <spotify>1Ryw2NPudgM1SRGZx91RbL</spotify>
+        <semifinal>2</semifinal>
+        <semifinalNbr>8</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>23</finalNbr>
+        <result>18</result>
+    </entry>
+    <entry>
+        <country>Romania</country>
+        <artist>The Humans</artist>
+        <title>Goodbye</title>
+        <video>nK7ggCjA98g</video>
+        <lyrics>http://4lyrics.eu/esc/2018/the-humans-goodbye/</lyrics>
+        <language>English</language>
+        <spotify>6uUkAk16Tf2AV681mvzTjR</spotify>
+        <semifinal>2</semifinal>
+        <semifinalNbr>2</semifinalNbr>
+    </entry>
+    <entry>
+        <country>Italy</country>
+        <artist>Ermal Meta &amp; Fabrizio Moro</artist>
+        <title>Non mi avete fatto niente</title>
+        <englishTitle>You did not do anything to me</englishTitle>
+        <video>zguJGdoPPnw</video>
+        <lyrics>http://4lyrics.eu/esc/2018/ermal-meta-fabrizio-moro-non-mi-avete-fatto-niente/</lyrics>
+        <language>Italian</language>
+        <spotify>1oMYET9xQB8XpxwTt2c5Dz</spotify>
+        <semifinal>3</semifinal>
+        <qualified>true</qualified>
+        <finalNbr>26</finalNbr>
+        <result>5</result>
+    </entry>
+    <entry>
+        <country>Moldova</country>
+        <artist>DoReDos</artist>
+        <title>My Lucky Day</title>
+        <video>pKLKeVC-9Y4</video>
+        <spotify>0ThWw4Mty8Sb0mzaXyFvt8</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/doredos-my-lucky-day/</lyrics>
+        <language>English</language>
+        <semifinal>2</semifinal>
+        <semifinalNbr>7</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>19</finalNbr>
+        <result>10</result>
+    </entry>
+    <entry>
+        <country>Slovenia</country>
+        <artist>Lea Sirk</artist>
+        <title>Hvala, ne!</title>
+        <englishTitle>No Thank You</englishTitle>
+        <video>kiysnSG6a3I</video>
+        <lyrics>http://4lyrics.eu/esc/2018/lea-sirk-hvala-ne/</lyrics>
+        <language>Slovene</language>
+        <spotify>28J9JZ6boWgzviW7Ut3TMN</spotify>
+        <semifinal>2</semifinal>
+        <semifinalNbr>17</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>3</finalNbr>
+        <result>22</result>
+    </entry>
+    <entry>
+        <country>Hungary</country>
+        <artist>AWS</artist>
+        <title>Viszlát nyár</title>
+        <englishTitle>Goodbye Summer</englishTitle>
+        <video>6unRU5ZHbqY</video>
+        <lyrics>http://4lyrics.eu/esc/2018/aws-viszlat-nyar/</lyrics>
+        <language>Hungarian</language>
+        <spotify>1psWgx8G2BSiFwCOPG257O</spotify>
+        <semifinal>2</semifinal>
+        <semifinalNbr>13</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>21</finalNbr>
+        <result>21</result>
+    </entry>
+    <entry>
+        <country>Latvia</country>
+        <artist>Laura Rizzotto</artist>
+        <title>Funny Girl</title>
+        <video>uBlZsGxeXk4</video>
+        <lyrics>http://4lyrics.eu/esc/2018/laura-rizzotto-funny-girl/</lyrics>
+        <language>English</language>
+        <spotify>04H79umZ9AxBj5MeTw6gAK</spotify>
+        <semifinal>2</semifinal>
+        <semifinalNbr>14</semifinalNbr>
+    </entry>
+    <entry>
+        <country>Ukraine</country>
+        <artist>Mélovin</artist>
+        <title>Under the Ladder</title>
+        <video>4jbF7o8yqnc</video>
+        <spotify>0a4eEfoZEYCXte9Zk1r7YG</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/melovin-under-the-ladder/</lyrics>
+        <language>English</language>
+        <semifinal>2</semifinal>
+        <semifinalNbr>18</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>1</finalNbr>
+        <result>17</result>
+    </entry>
+    <entry>
+        <country>Germany</country>
+        <artist>Michael Schulte</artist>
+        <title>You Let Me Walk Alone</title>
+        <video>Evx0aAF79-E</video>
+        <lyrics>http://4lyrics.eu/esc/2018/michael-schulte-you-let-me-walk-alone/</lyrics>
+        <language>English</language>
+        <spotify>1i31AKvYOI4b5FCU1cEHqU</spotify>
+        <semifinal>3</semifinal>
+        <qualified>true</qualified>
+        <finalNbr>11</finalNbr>
+        <result>4</result>
+    </entry>
+    <entry>
+        <country>Serbia</country>
+        <artist>Sanja Ilić &amp; Balkanika</artist>
+        <title>Nova deca (Нова деца)</title>
+        <englishTitle>New Kids</englishTitle>
+        <video>WkOFnIjGrkw</video>
+        <spotify>7i4FrliOhykU6yxoue8Y9e</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/sanja-ilic-balkanika-nova-deca/</lyrics>
+        <language>Serbian</language>
+        <semifinal>2</semifinal>
+        <semifinalNbr>3</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>10</finalNbr>
+        <result>19</result>
+    </entry>
+    <entry>
+        <country>Denmark</country>
+        <artist>Rasmussen</artist>
+        <title>Higher Ground</title>
+        <video>XeraDSzu0nw</video>
+        <lyrics>http://4lyrics.eu/esc/2018/rasmussen-higher-ground/</lyrics>
+        <language>English</language>
+        <spotify>6SCl3S0IAbPX7cLE6LjEOt</spotify>
+        <semifinal>2</semifinal>
+        <semifinalNbr>5</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>15</finalNbr>
+        <result>9</result>
+    </entry>
+    <entry>
+        <country>Albania</country>
+        <artist>Eugent Bushpepa</artist>
+        <title>Mall</title>
+        <englishTitle>Yearning</englishTitle>
+        <video>E7t4mu0tmWc</video>
+        <spotify>6vGLWavGUuAs9vpZyprUl0</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/eugent-bushpepa-mall/</lyrics>
+        <language>Albanian</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>3</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>12</finalNbr>
+        <result>11</result>
+    </entry>
+    <entry>
+        <country>Azerbaijan</country>
+        <artist>Aisel</artist>
+        <title>X My Heart</title>
+        <video>kWomOdDGwMM</video>
+        <spotify>4B7unF2W1BdLI8j1UvQfaS</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/aisel-x-my-heart/</lyrics>
+        <language>English</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>1</semifinalNbr>
+    </entry>
+    <entry>
+        <country>Belarus</country>
+        <artist>Alekseev</artist>
+        <title>Forever</title>
+        <video>YU2My4BPX34</video>
+        <spotify>685UJZnU0CAi4ECP9AOFzn</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/alekseev-forever/</lyrics>
+        <language>English</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>8</semifinalNbr>
+    </entry>
+    <entry>
+        <country>Belgium</country>
+        <artist>Sennek</artist>
+        <title>A Matter of Time</title>
+        <video>6DGf9TMehi0</video>
+        <spotify>2776nsJOmk3psqGSocg6lK</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/sennek-a-matter-of-time/</lyrics>
+        <language>English</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>4</semifinalNbr>
+    </entry>
+    <entry>
+        <country>Bulgaria</country>
+        <artist>Equinox</artist>
+        <title>Bones</title>
+        <video>Uvy_R3fTHQ4</video>
+        <spotify>4Xry1LRtOLdzFPFBfTISMU</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/equinox-bones/</lyrics>
+        <language>English</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>10</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>18</finalNbr>
+        <result>14</result>
+    </entry>
+    <entry>
+        <country>Iceland</country>
+        <artist>Ari Ólafsson</artist>
+        <title>Our Choice</title>
+        <video>nloweviD_90</video>
+        <spotify>2he61MJyMIOj8enfDmLxRI</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/ari-olafsson-our-choice/</lyrics>
+        <language>English</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>2</semifinalNbr>
+    </entry>
+    <entry>
+        <country>Israel</country>
+        <artist>Netta</artist>
+        <title>Toy</title>
+        <video>CziHrYYSyPc</video>
+        <spotify>7vuTcvFnvlqWlWb4u60nvY</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/netta-barzilai-toy/</lyrics>
+        <language>English</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>7</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>22</finalNbr>
+        <result>1</result>
+    </entry>
+    <entry>
+        <country>Lithuania</country>
+        <artist>Ieva Zasimauskaitė</artist>
+        <title>When We're Old</title>
+        <video>CvG3sdGdGUA</video>
+        <spotify>5vFiuwlEfEcEwPvS5e1icS</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/ieva-zasimauskaite-when-were-old/</lyrics>
+        <language>English, Lithuanian</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>6</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>4</finalNbr>
+        <result>12</result>
+    </entry>
+    <entry>
+        <country>Croatia</country>
+        <artist>Franka</artist>
+        <title>Crazy</title>
+        <video>19Yo86KCd0w</video>
+        <spotify>3C0Jl08p5aXD0MckMqBFmx</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/franka-crazy/</lyrics>
+        <language>English</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>12</semifinalNbr>
+    </entry>
+    <entry>
+        <country>Australia</country>
+        <artist>Jessica Mauboy</artist>
+        <title>We Got Love</title>
+        <video>J4XZxbrvepw</video>
+        <spotify>7kqujRWNEBhrpYt0eV0uw5</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/jessica-mauboy-we-got-love/</lyrics>
+        <language>English</language>
+        <semifinal>2</semifinal>
+        <semifinalNbr>9</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>16</finalNbr>
+        <result>20</result>
+    </entry>
+    <entry>
+        <country>Austria</country>
+        <artist>Cesár Sampson</artist>
+        <title>Nobody but You</title>
+        <video>I8MyztgOTv8</video>
+        <spotify>1sG8waSoZFHrTBO04639w0</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/cesar-sampson-nobody-but-you/</lyrics>
+        <language>English</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>13</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>5</finalNbr>
+        <result>3</result>
+    </entry>
+    <entry>
+        <country>Greece</country>
+        <artist>Yianna Terzi</artist>
+        <title>Oneiro mou (Όνειρό μου)</title>
+        <englishTitle>My Dream</englishTitle>
+        <video>z6hvV9-Gi_w</video>
+        <spotify>6fbY4PL1W2ew1M3SwCHL2j</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/gianna-terzi-oneiro-mou/</lyrics>
+        <language>Greek</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>14</semifinalNbr>
+    </entry>
+    <entry>
+        <country>Ireland</country>
+        <artist>Ryan O'Shaughnessy</artist>
+        <title>Together</title>
+        <video>XAEjQXzW4Uc</video>
+        <spotify>7jYLCd1CafwKxbuXgRc2rs</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/ryan-oshaughnessy-together/</lyrics>
+        <language>English</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>18</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>24</finalNbr>
+        <result>16</result>
+    </entry>
+    <entry>
+        <country>San Marino</country>
+        <artist>Jessika feat. Jenifer Brening</artist>
+        <title>Who We Are</title>
+        <video>ZNflc1Zcw2A</video>
+        <spotify>0dew6JXEmJOo8nRbPp9M6Y</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/jessika-jenifer-brening-who-we-are/</lyrics>
+        <language>English</language>
+        <semifinal>2</semifinal>
+        <semifinalNbr>4</semifinalNbr>
+    </entry>
+    <entry>
+        <country>Sweden</country>
+        <artist>Benjamin Ingrosso</artist>
+        <title>Dance You Off</title>
+        <video>U2UmYBkszOA</video>
+        <spotify>0s3P5PImfDZYWIseR3b39D</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/benjamin-ingrosso-dance-you-off/</lyrics>
+        <language>English</language>
+        <semifinal>2</semifinal>
+        <semifinalNbr>15</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>20</finalNbr>
+        <result>7</result>
+    </entry>
+    <entry>
+        <country>Norway</country>
+        <artist>Alexander Rybak</artist>
+        <title>That's How You Write a Song</title>
+        <video>Mvxni-WcD9A</video>
+        <spotify>4RgfBil6aN3o26M8t3KjGH</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/alexander-rybak-thats-how-you-write-a-song/</lyrics>
+        <language>English</language>
+        <semifinal>2</semifinal>
+        <semifinalNbr>1</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>7</finalNbr>
+        <result>15</result>
+    </entry>
+    <entry>
+        <country>Macedonia</country>
+        <artist>Eye Cue</artist>
+        <title>Lost and Found</title>
+        <video>hJ8vStigz7k</video>
+        <spotify>5pr2apsKCrMhoAwQ5ESJym</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/eye-cue-lost-and-found/</lyrics>
+        <language>English</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>11</semifinalNbr>
+    </entry>
+    <entry>
+        <country>Montenegro</country>
+        <artist>Vanja Radovanović</artist>
+        <title>Inje</title>
+        <englishTitle>Frost</englishTitle>
+        <video>qxJoxbo9lCQ</video>
+        <spotify>4AQX7Nbg0ZuiA763Y6N8Uk</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/vanja-radovanovic-inje/</lyrics>
+        <language>Montenegrin</language>
+        <semifinal>2</semifinal>
+        <semifinalNbr>16</semifinalNbr>
+    </entry>
+    <entry>
+        <country>Russia</country>
+        <artist>Julia Samoylova</artist>
+        <title>I Won't Break</title>
+        <video>bgBwbr_fUxA</video>
+        <spotify>7K2nHcg1TvgLGW6NTupf3U</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/julia-samoylova-i-wont-break/</lyrics>
+        <language>English</language>
+        <semifinal>2</semifinal>
+        <semifinalNbr>6</semifinalNbr>
+    </entry>
+    <entry>
+        <country>Cyprus</country>
+        <artist>Eleni Foureira</artist>
+        <title>Fuego</title>
+        <video>eDSgs6syrgg</video>
+        <spotify>22ppznuzVF9LKamaaqMMqu</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/eleni-foureira-fuego/</lyrics>
+        <language>English</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>19</semifinalNbr>
+        <qualified>true</qualified>
+        <finalNbr>25</finalNbr>
+        <result>2</result>
+    </entry>
+    <entry>
+        <country>Georgia</country>
+        <artist>Iriao</artist>
+        <title>For You</title>
+        <video>TuCZMdfBqm4</video>
+        <spotify>6qE0K1nD4YlXup3KCcP9Qw</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/iriao-for-you/</lyrics>
+        <language>Georgian</language>
+        <semifinal>2</semifinal>
+        <semifinalNbr>10</semifinalNbr>
+    </entry>
+    <entry>
+        <country>Armenia</country>
+        <artist>Sevak Khanagyan</artist>
+        <title>Qami (Քամի)</title>
+        <englishTitle>Wind</englishTitle>
+        <video>olpi6UGmm_Y</video>
+        <spotify>2zO4FXoBn1hseWJmjzGpcM</spotify>
+        <lyrics>http://4lyrics.eu/esc/2018/sevak-khanagyan-qami/</lyrics>
+        <language>Armenian</language>
+        <semifinal>1</semifinal>
+        <semifinalNbr>16</semifinalNbr>
+    </entry>
+</esc>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_centerVertical="true"
+        android:layout_height="wrap_content"
+        android:layout_width="55dp"
+        android:id="@+id/contestLogo"
+        android:src="@drawable/logo_esc2015" />
+    <LinearLayout
+        android:id="@+id/contestData"
+        android:layout_toRightOf="@+id/contestLogo"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:textColor="?android:textColorPrimary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="Vienna 2015"
+            android:id="@+id/contestName" />
+        <TextView
+            android:textColor="?android:textColorSecondary"
+            android:fontFamily="sans-serif-light"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:text="Building Bridges"
+            android:id="@+id/contestMotto" />
+    </LinearLayout>
+</RelativeLayout>

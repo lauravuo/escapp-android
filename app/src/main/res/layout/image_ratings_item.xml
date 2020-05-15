@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="184px"
+    android:background="@drawable/image_ratings_item_line">
+    <ImageView
+        android:layout_centerVertical="true"
+        android:layout_height="130px"
+        android:layout_width="130px"
+        android:paddingLeft="27px"
+        android:id="@+id/countryFlag"
+        android:src="@drawable/flag_austria" />
+    <TextView
+        android:id="@+id/entryRate"
+        android:layout_width="60px"
+        android:layout_height="60px"
+        android:background="@drawable/image_ratings_item_rate_bg"
+        android:textSize="42px"
+        android:text="12"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:layout_marginTop="10px"
+        android:layout_marginRight="10px"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:textColor="@color/text_color"
+        />
+
+    <LinearLayout
+        android:id="@+id/trackData"
+        android:layout_toRightOf="@+id/countryFlag"
+        android:layout_centerVertical="true"
+        android:paddingLeft="27px"
+        android:paddingBottom="10px"
+        android:paddingRight="20px"
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:textColor="@color/text_color"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="32px"
+            android:text="1. Bosnia and Herzegovina"
+            android:id="@+id/entryCountry" />
+        <TextView
+            android:textColor="@color/text_color"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="2px"
+            android:textSize="28px"
+            android:maxLines="2"
+            android:ellipsize="end"
+            android:text="Conchita Wurst - Rise Like a Phoenix two lines of text dappadaa"
+            android:id="@+id/entrySong" />
+    </LinearLayout>
+</RelativeLayout>

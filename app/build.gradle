@@ -1,0 +1,35 @@
+apply plugin: 'com.android.application'
+
+Properties properties = new Properties()
+def propertiesFile = project.rootProject.file('local.properties')
+if (propertiesFile.exists()) {
+    properties.load(propertiesFile.newDataInputStream())
+}
+
+android {
+    compileSdkVersion 28
+    buildToolsVersion "28.0.3"
+
+    defaultConfig {
+        applicationId "com.escapp"
+        minSdkVersion 19
+        targetSdkVersion 28
+        versionCode 53
+        versionName "2.18" +
+                "" +
+                ""
+        buildConfigField('String', 'YOUTUBE_DEVELOPER_KEY', properties.getProperty('youtube.developer.key'))
+    }
+    buildTypes {
+        release {
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.android.support:appcompat-v7:28.0.0'
+}
+
+
